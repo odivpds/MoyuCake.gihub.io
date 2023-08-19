@@ -1,0 +1,49 @@
+*,html,
+      body{
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+      }
+      .nap{
+        color: azure;
+      }
+      .picture1{
+      background-size: cover;
+      padding-bottom: 20%;
+      }
+      
+      .picture2{
+      background-size: cover;
+      padding-top: 1%;
+      padding-bottom: 1%;
+      }
+      .tulisan{
+      font-family:Georgia, 'Times New Roman', Times, serif; color: black;
+      }
+      .icons{
+        margin: 4px;
+        font-size: 25px;
+        color: rgb(206, 206, 206)
+      }
+      .icons:hover{
+        font-size: 24.5px;
+        transition: 0.2s;
+        text-shadow: 3px 1px  rgb(94, 94, 255);
+      }
+      .pic{
+        width: 150px;
+      }
+      .promo{
+        width: 37%;
+        box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+        
+    }
+    .bgblur{
+        background-image: url(bg-blur2.webp);
+        background-size: cover;
+        margin: 0;
+        padding: 0;
+      }
+    .nav-link{
+      margin: 10px;
+    }  
